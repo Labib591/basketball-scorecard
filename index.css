@@ -1,5 +1,5 @@
 body {
-    background-image: url("yarn.jpeg");
+    background-image: url("ruslan-ruslan-AhAMJgq5QPM-unsplash.jpg");
     background-size: cover;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
@@ -7,7 +7,9 @@ body {
 }
 
 .container {
-    background: white;
+    background: beige;
+    position: relative;
+    top: 14%;
     max-width: 80%;
     margin: auto;
     border: 3px solid black;
@@ -15,6 +17,8 @@ body {
 }
 
 h1 {
+    font-size: 80px;
+    color: rgb(209, 121, 33);
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -22,7 +26,6 @@ h1 {
     font-size: 50px;
     top: 0%;
     right: 50%;
-    /* position: absolute; */
 }
 #count-ela{
     font-size: 50px;
